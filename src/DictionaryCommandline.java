@@ -12,6 +12,7 @@ public class DictionaryCommandline {
             System.out.format("%-5s %-50s %-50s \n",
                                 i, word.getWord_target(), word.getWord_explain());
             i++;
+
         }
     }
 
